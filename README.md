@@ -1,2 +1,2 @@
-# -onsole-program
+# -сonsole-program
 Практика 1, простая консольная программа
